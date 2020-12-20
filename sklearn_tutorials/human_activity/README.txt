@@ -1,2 +1,2 @@
 you can download human_activity datasets ✨😀
-from https://archive.ics.uci/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+from https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
